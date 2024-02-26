@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #FDFEE1;
+}
+li {
+  margin-bottom: 10px;
+}
+
+li button {
+  font-size: 8px;
+  margin-left: 20px;
+  color: #666;
+}
+#main{
+  margin: auto;
+}
